@@ -1,0 +1,6 @@
+pluginManagement {
+	repositories {
+        maven { url 'https://repository.int.kn/repository/onlineservices/' }
+	}
+}
+rootProject.name = 'spring-starter-demo'
